@@ -22,4 +22,3 @@ We will be describing [Little Spoon Farm's](https://littlespoonfarm.com/) delici
 ![](fig/cinnamon-rolls-out-of-the-oven.jpg){alt='A bunch of baked cinnamon rolls in a baking tray.'}
 
 
-YUMMY!
